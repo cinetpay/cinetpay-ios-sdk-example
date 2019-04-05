@@ -1,0 +1,6 @@
+framework module Pods_CinetPay {
+  umbrella header "Pods-CinetPay-umbrella.h"
+
+  export *
+  module * { export * }
+}

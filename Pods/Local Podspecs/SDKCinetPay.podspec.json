@@ -1,0 +1,32 @@
+{
+  "name": "SDKCinetPay",
+  "version": "1.0.11",
+  "summary": "SDK iOS pour CinetPay.",
+  "description": "Le SDK CinetPay pour iOS vous permet d'intégrer les moyens de paiement offerts par CinetPay dans votre application iOS.",
+  "homepage": "https://github.com/cinetpay/cinetpay-ios-sdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ismael Toé": "ismael.toe@cinetpay.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/cinetpay/cinetpay-ios-sdk.git",
+    "tag": "1.0.11"
+  },
+  "source_files": "SDKCinetPay/**/*",
+  "swift_version": "5.0",
+  "resource_bundles": {
+    "SDKCinetPay": [
+      "SDKCinetPay/cancel.svg",
+      "SDKCinetPay/cinetpay.html",
+      "SDKCinetPay/cinetpay.png",
+      "SDKCinetPay/success.svg"
+    ]
+  },
+  "resources": "SDKCinetPay/**/*.{html,svg}"
+}

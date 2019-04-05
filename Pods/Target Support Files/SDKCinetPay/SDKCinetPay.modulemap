@@ -1,0 +1,6 @@
+framework module SDKCinetPay {
+  umbrella header "SDKCinetPay-umbrella.h"
+
+  export *
+  module * { export * }
+}

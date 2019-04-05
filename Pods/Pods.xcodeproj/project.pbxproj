@@ -1,0 +1,747 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		10365B962A478F8979952C1ED5863CCE /* cancel.svg in Sources */ = {isa = PBXBuildFile; fileRef = 1C2EAF39BB86921BD5FD31879F0DE6E7 /* cancel.svg */; };
+		13B86237546CBAC8FACB826E3679A060 /* SDKCinetPay-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 250B4B34359E5EDC0BFE059723067BA7 /* SDKCinetPay-dummy.m */; };
+		338CC2D2D7E2A1DDFF71126DD31D3E28 /* CinetPayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9628458534B0DDE5A549B9CE87F494D5 /* CinetPayViewController.swift */; };
+		4480A2F01796B8378A5318081801261C /* Pods-CinetPay-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 53FED494589D0BE8D65AD1324833A06B /* Pods-CinetPay-dummy.m */; };
+		455E4310ABCDACC1625A20CD28A926C7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
+		5C5A96AC11C5FCBA420FB2DE760AC144 /* cinetpay.html in Resources */ = {isa = PBXBuildFile; fileRef = 30F6910667EE79AEB12C2F65FEF6BCDC /* cinetpay.html */; };
+		5F37A2C8A718EA07ED30AD9ECA16B9FA /* cinetpay.html in Sources */ = {isa = PBXBuildFile; fileRef = 30F6910667EE79AEB12C2F65FEF6BCDC /* cinetpay.html */; };
+		6279CEBDC188DC21CE0297A5E5B3966F /* SDKCinetPay-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 87115129DBAF8E26985EE9BB3C6F68FB /* SDKCinetPay-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6F2DD7D00262ECF80EC7E8D65351088A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
+		7DB71FC8DEBBF4E1A3F784139A7DDA34 /* success.svg in Sources */ = {isa = PBXBuildFile; fileRef = 80FFE6055EF87031872F505FB239EB85 /* success.svg */; };
+		7E35459418A52FC6F151B44C1F450D2E /* Pods-CinetPay-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E1AE72E5CCA08840DFE06B8E97B71D25 /* Pods-CinetPay-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7F35439433E68F284DC2C09510615B75 /* cinetpay.html in Resources */ = {isa = PBXBuildFile; fileRef = 30F6910667EE79AEB12C2F65FEF6BCDC /* cinetpay.html */; };
+		843AB03709D90478EB38843B62054CB7 /* cancel.svg in Resources */ = {isa = PBXBuildFile; fileRef = 1C2EAF39BB86921BD5FD31879F0DE6E7 /* cancel.svg */; };
+		88C8C6CD716D46ABB059115A5A518F7A /* cinetpay.png in Sources */ = {isa = PBXBuildFile; fileRef = 49EB1485C514061696AF22696413A6CB /* cinetpay.png */; };
+		A2030BD710F4882CFC6AA9303FEA760C /* success.svg in Resources */ = {isa = PBXBuildFile; fileRef = 80FFE6055EF87031872F505FB239EB85 /* success.svg */; };
+		B78202206E94AAD3D4FC3FEA9E9F51FC /* success.svg in Resources */ = {isa = PBXBuildFile; fileRef = 80FFE6055EF87031872F505FB239EB85 /* success.svg */; };
+		C93105E170B05AFEDAF2B95E6B4A0B3C /* cinetpay.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EB1485C514061696AF22696413A6CB /* cinetpay.png */; };
+		D01A5B5CF54795D2A8434C8199779670 /* SDKCinetPay.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E6EB22199D0EA9E5CE22B0B8DB645106 /* SDKCinetPay.bundle */; };
+		F5D92D7116DB97F4614647CF755A5FBF /* SDKCinetPay.h in Headers */ = {isa = PBXBuildFile; fileRef = C99ADEB3370AB7724F4513AB63F03FCF /* SDKCinetPay.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FF6141A5030106D0E48B02068F8EE7F5 /* cancel.svg in Resources */ = {isa = PBXBuildFile; fileRef = 1C2EAF39BB86921BD5FD31879F0DE6E7 /* cancel.svg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		44C7C0EAF777FCE159A8636DA4A10655 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E4A408513AEA71A2D4B5212CBF719C6F;
+			remoteInfo = SDKCinetPay;
+		};
+		9EF1D705657CF4D40B6035B585456466 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E4D8B106DCF120FC11FF902B9DD6838F;
+			remoteInfo = "SDKCinetPay-SDKCinetPay";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1C2EAF39BB86921BD5FD31879F0DE6E7 /* cancel.svg */ = {isa = PBXFileReference; includeInIndex = 1; name = cancel.svg; path = SDKCinetPay/cancel.svg; sourceTree = "<group>"; };
+		250B4B34359E5EDC0BFE059723067BA7 /* SDKCinetPay-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SDKCinetPay-dummy.m"; sourceTree = "<group>"; };
+		30F6910667EE79AEB12C2F65FEF6BCDC /* cinetpay.html */ = {isa = PBXFileReference; includeInIndex = 1; name = cinetpay.html; path = SDKCinetPay/cinetpay.html; sourceTree = "<group>"; };
+		3A47DEF7E95A2BD53AF43DEB6AD15D33 /* Pods-CinetPay.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CinetPay.debug.xcconfig"; sourceTree = "<group>"; };
+		3F2E21B5EF05F6D2895D5A973219FD01 /* SDKCinetPay.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDKCinetPay.framework; path = SDKCinetPay.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		49EB1485C514061696AF22696413A6CB /* cinetpay.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = cinetpay.png; path = SDKCinetPay/cinetpay.png; sourceTree = "<group>"; };
+		513C8CA6014C0F002F23DEE554DE684A /* Pods-CinetPay-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CinetPay-acknowledgements.plist"; sourceTree = "<group>"; };
+		53FED494589D0BE8D65AD1324833A06B /* Pods-CinetPay-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CinetPay-dummy.m"; sourceTree = "<group>"; };
+		5F55489A91961C57C6503B111DB65524 /* ResourceBundle-SDKCinetPay-SDKCinetPay-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SDKCinetPay-SDKCinetPay-Info.plist"; sourceTree = "<group>"; };
+		61D5FC54D02489CA8FB8B31AF09B2EF2 /* SDKCinetPay.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDKCinetPay.xcconfig; sourceTree = "<group>"; };
+		67E42E11ADF8D5564E151E4C8B60C7C4 /* Pods-CinetPay.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CinetPay.release.xcconfig"; sourceTree = "<group>"; };
+		80FFE6055EF87031872F505FB239EB85 /* success.svg */ = {isa = PBXFileReference; includeInIndex = 1; name = success.svg; path = SDKCinetPay/success.svg; sourceTree = "<group>"; };
+		87115129DBAF8E26985EE9BB3C6F68FB /* SDKCinetPay-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDKCinetPay-umbrella.h"; sourceTree = "<group>"; };
+		9628458534B0DDE5A549B9CE87F494D5 /* CinetPayViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CinetPayViewController.swift; path = SDKCinetPay/CinetPayViewController.swift; sourceTree = "<group>"; };
+		98B899B6678E6406B3B29AFD8B6BF190 /* Pods-CinetPay-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CinetPay-Info.plist"; sourceTree = "<group>"; };
+		9D050C27E976CD964B2C729965B2B181 /* SDKCinetPay-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SDKCinetPay-Info.plist"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A0BAD786A7C3693EBCE5DCCFA2443FBE /* SDKCinetPay.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SDKCinetPay.modulemap; sourceTree = "<group>"; };
+		B49581C2AD5F8A31BF01DA2B3AC3699B /* Pods-CinetPay-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CinetPay-acknowledgements.markdown"; sourceTree = "<group>"; };
+		B5E37DA1B8BD429292F11B4E4E32669B /* SDKCinetPay-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDKCinetPay-prefix.pch"; sourceTree = "<group>"; };
+		C8682FA27B944E25FAD2BCFCF8567534 /* Pods_CinetPay.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CinetPay.framework; path = "Pods-CinetPay.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C99ADEB3370AB7724F4513AB63F03FCF /* SDKCinetPay.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDKCinetPay.h; path = SDKCinetPay/SDKCinetPay.h; sourceTree = "<group>"; };
+		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D02BB9301EA2570428F9AEF2F986D33C /* Pods-CinetPay.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CinetPay.modulemap"; sourceTree = "<group>"; };
+		E1AE72E5CCA08840DFE06B8E97B71D25 /* Pods-CinetPay-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CinetPay-umbrella.h"; sourceTree = "<group>"; };
+		E364C0BC7842B741497C22692E66E708 /* Pods-CinetPay-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CinetPay-frameworks.sh"; sourceTree = "<group>"; };
+		E6EB22199D0EA9E5CE22B0B8DB645106 /* SDKCinetPay.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = SDKCinetPay.bundle; path = "SDKCinetPay-SDKCinetPay.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		083A60FC873DA2430215719AA3E74567 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				455E4310ABCDACC1625A20CD28A926C7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		78125AB0EE2DBE757A5B577C6DD5D6FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6F2DD7D00262ECF80EC7E8D65351088A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D166E2414E30D5E00EBE51B5B331E1DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08C3D2A61DCA7983A649DFA2B21CFD9D /* Pods-CinetPay */ = {
+			isa = PBXGroup;
+			children = (
+				D02BB9301EA2570428F9AEF2F986D33C /* Pods-CinetPay.modulemap */,
+				B49581C2AD5F8A31BF01DA2B3AC3699B /* Pods-CinetPay-acknowledgements.markdown */,
+				513C8CA6014C0F002F23DEE554DE684A /* Pods-CinetPay-acknowledgements.plist */,
+				53FED494589D0BE8D65AD1324833A06B /* Pods-CinetPay-dummy.m */,
+				E364C0BC7842B741497C22692E66E708 /* Pods-CinetPay-frameworks.sh */,
+				98B899B6678E6406B3B29AFD8B6BF190 /* Pods-CinetPay-Info.plist */,
+				E1AE72E5CCA08840DFE06B8E97B71D25 /* Pods-CinetPay-umbrella.h */,
+				3A47DEF7E95A2BD53AF43DEB6AD15D33 /* Pods-CinetPay.debug.xcconfig */,
+				67E42E11ADF8D5564E151E4C8B60C7C4 /* Pods-CinetPay.release.xcconfig */,
+			);
+			name = "Pods-CinetPay";
+			path = "Target Support Files/Pods-CinetPay";
+			sourceTree = "<group>";
+		};
+		379430C49235205BBC2E65E5A4328F04 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		3BDE992CDF107AA73C2ACB08790E5568 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				5F55489A91961C57C6503B111DB65524 /* ResourceBundle-SDKCinetPay-SDKCinetPay-Info.plist */,
+				A0BAD786A7C3693EBCE5DCCFA2443FBE /* SDKCinetPay.modulemap */,
+				61D5FC54D02489CA8FB8B31AF09B2EF2 /* SDKCinetPay.xcconfig */,
+				250B4B34359E5EDC0BFE059723067BA7 /* SDKCinetPay-dummy.m */,
+				9D050C27E976CD964B2C729965B2B181 /* SDKCinetPay-Info.plist */,
+				B5E37DA1B8BD429292F11B4E4E32669B /* SDKCinetPay-prefix.pch */,
+				87115129DBAF8E26985EE9BB3C6F68FB /* SDKCinetPay-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/SDKCinetPay";
+			sourceTree = "<group>";
+		};
+		50B4DD2DEC6EBFC86765AB59365335D6 /* SDKCinetPay */ = {
+			isa = PBXGroup;
+			children = (
+				1C2EAF39BB86921BD5FD31879F0DE6E7 /* cancel.svg */,
+				30F6910667EE79AEB12C2F65FEF6BCDC /* cinetpay.html */,
+				49EB1485C514061696AF22696413A6CB /* cinetpay.png */,
+				9628458534B0DDE5A549B9CE87F494D5 /* CinetPayViewController.swift */,
+				C99ADEB3370AB7724F4513AB63F03FCF /* SDKCinetPay.h */,
+				80FFE6055EF87031872F505FB239EB85 /* success.svg */,
+				379430C49235205BBC2E65E5A4328F04 /* Resources */,
+				3BDE992CDF107AA73C2ACB08790E5568 /* Support Files */,
+			);
+			name = SDKCinetPay;
+			path = SDKCinetPay;
+			sourceTree = "<group>";
+		};
+		7E80DEB75B5940D3C6F97608ACDC1C51 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				50B4DD2DEC6EBFC86765AB59365335D6 /* SDKCinetPay */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		9B055D0CFEA43187E72B03DED11F5662 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		C1E205F6FC786BE8340B381F9840B47B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C8682FA27B944E25FAD2BCFCF8567534 /* Pods_CinetPay.framework */,
+				E6EB22199D0EA9E5CE22B0B8DB645106 /* SDKCinetPay.bundle */,
+				3F2E21B5EF05F6D2895D5A973219FD01 /* SDKCinetPay.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C60D75159EE48C87608E2E0D8156DA6A /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				08C3D2A61DCA7983A649DFA2B21CFD9D /* Pods-CinetPay */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				7E80DEB75B5940D3C6F97608ACDC1C51 /* Pods */,
+				C1E205F6FC786BE8340B381F9840B47B /* Products */,
+				C60D75159EE48C87608E2E0D8156DA6A /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9B055D0CFEA43187E72B03DED11F5662 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		47CC0D31453C563A1F63864C583F9497 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6279CEBDC188DC21CE0297A5E5B3966F /* SDKCinetPay-umbrella.h in Headers */,
+				F5D92D7116DB97F4614647CF755A5FBF /* SDKCinetPay.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9509A5BA0BB61151906D0337B6695DE /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E35459418A52FC6F151B44C1F450D2E /* Pods-CinetPay-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		B1A9D7E9F93B5D002CBB3864C8A8B780 /* Pods-CinetPay */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CCDC9BB7A978B1F385FABEFB7D9AA393 /* Build configuration list for PBXNativeTarget "Pods-CinetPay" */;
+			buildPhases = (
+				E9509A5BA0BB61151906D0337B6695DE /* Headers */,
+				414C7DB4969E127DF1A02F974193723A /* Sources */,
+				083A60FC873DA2430215719AA3E74567 /* Frameworks */,
+				1B1A02D146E3E91111A177428E5B834B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				21CC2F6C6E8AFECDA9A7AF0B9170BB9D /* PBXTargetDependency */,
+			);
+			name = "Pods-CinetPay";
+			productName = "Pods-CinetPay";
+			productReference = C8682FA27B944E25FAD2BCFCF8567534 /* Pods_CinetPay.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		E4A408513AEA71A2D4B5212CBF719C6F /* SDKCinetPay */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 66207EF3CD3F20191FCCE0FEED1F56A8 /* Build configuration list for PBXNativeTarget "SDKCinetPay" */;
+			buildPhases = (
+				47CC0D31453C563A1F63864C583F9497 /* Headers */,
+				3DD62A6C3C8278AC19E2D39EFFDFEB59 /* Sources */,
+				78125AB0EE2DBE757A5B577C6DD5D6FA /* Frameworks */,
+				F8469D7F482034BDED22E9DC46C34EAC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				15DC3D46553BC06D10A3F7714EAD3BAB /* PBXTargetDependency */,
+			);
+			name = SDKCinetPay;
+			productName = SDKCinetPay;
+			productReference = 3F2E21B5EF05F6D2895D5A973219FD01 /* SDKCinetPay.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		E4D8B106DCF120FC11FF902B9DD6838F /* SDKCinetPay-SDKCinetPay */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FABD8EA69D87F0B22E4F613AE1DD3F56 /* Build configuration list for PBXNativeTarget "SDKCinetPay-SDKCinetPay" */;
+			buildPhases = (
+				0AC3263E37A0B5756ECE84770A200018 /* Sources */,
+				D166E2414E30D5E00EBE51B5B331E1DA /* Frameworks */,
+				51F2C6357833A73B788932292C9DD983 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SDKCinetPay-SDKCinetPay";
+			productName = "SDKCinetPay-SDKCinetPay";
+			productReference = E6EB22199D0EA9E5CE22B0B8DB645106 /* SDKCinetPay.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = C1E205F6FC786BE8340B381F9840B47B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B1A9D7E9F93B5D002CBB3864C8A8B780 /* Pods-CinetPay */,
+				E4A408513AEA71A2D4B5212CBF719C6F /* SDKCinetPay */,
+				E4D8B106DCF120FC11FF902B9DD6838F /* SDKCinetPay-SDKCinetPay */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1B1A02D146E3E91111A177428E5B834B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51F2C6357833A73B788932292C9DD983 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				843AB03709D90478EB38843B62054CB7 /* cancel.svg in Resources */,
+				5C5A96AC11C5FCBA420FB2DE760AC144 /* cinetpay.html in Resources */,
+				C93105E170B05AFEDAF2B95E6B4A0B3C /* cinetpay.png in Resources */,
+				B78202206E94AAD3D4FC3FEA9E9F51FC /* success.svg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F8469D7F482034BDED22E9DC46C34EAC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF6141A5030106D0E48B02068F8EE7F5 /* cancel.svg in Resources */,
+				7F35439433E68F284DC2C09510615B75 /* cinetpay.html in Resources */,
+				D01A5B5CF54795D2A8434C8199779670 /* SDKCinetPay.bundle in Resources */,
+				A2030BD710F4882CFC6AA9303FEA760C /* success.svg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0AC3263E37A0B5756ECE84770A200018 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DD62A6C3C8278AC19E2D39EFFDFEB59 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				10365B962A478F8979952C1ED5863CCE /* cancel.svg in Sources */,
+				5F37A2C8A718EA07ED30AD9ECA16B9FA /* cinetpay.html in Sources */,
+				88C8C6CD716D46ABB059115A5A518F7A /* cinetpay.png in Sources */,
+				338CC2D2D7E2A1DDFF71126DD31D3E28 /* CinetPayViewController.swift in Sources */,
+				13B86237546CBAC8FACB826E3679A060 /* SDKCinetPay-dummy.m in Sources */,
+				7DB71FC8DEBBF4E1A3F784139A7DDA34 /* success.svg in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		414C7DB4969E127DF1A02F974193723A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4480A2F01796B8378A5318081801261C /* Pods-CinetPay-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		15DC3D46553BC06D10A3F7714EAD3BAB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "SDKCinetPay-SDKCinetPay";
+			target = E4D8B106DCF120FC11FF902B9DD6838F /* SDKCinetPay-SDKCinetPay */;
+			targetProxy = 9EF1D705657CF4D40B6035B585456466 /* PBXContainerItemProxy */;
+		};
+		21CC2F6C6E8AFECDA9A7AF0B9170BB9D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SDKCinetPay;
+			target = E4A408513AEA71A2D4B5212CBF719C6F /* SDKCinetPay */;
+			targetProxy = 44C7C0EAF777FCE159A8636DA4A10655 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0858173549637A7498C2A697B47293A2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3A47DEF7E95A2BD53AF43DEB6AD15D33 /* Pods-CinetPay.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CinetPay/Pods-CinetPay-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CinetPay/Pods-CinetPay.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		1FD7EC5A6FFF49F751EDD124F952384F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 67E42E11ADF8D5564E151E4C8B60C7C4 /* Pods-CinetPay.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CinetPay/Pods-CinetPay-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CinetPay/Pods-CinetPay.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3BC277129A1534133A0EC115E5A7BE8E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 61D5FC54D02489CA8FB8B31AF09B2EF2 /* SDKCinetPay.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SDKCinetPay/SDKCinetPay-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SDKCinetPay/SDKCinetPay-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SDKCinetPay/SDKCinetPay.modulemap";
+				PRODUCT_MODULE_NAME = SDKCinetPay;
+				PRODUCT_NAME = SDKCinetPay;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		4093433A309EFE160336AC736594AB22 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		48111A4D14624F34A1FF925ED4EF04B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 61D5FC54D02489CA8FB8B31AF09B2EF2 /* SDKCinetPay.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SDKCinetPay/SDKCinetPay-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SDKCinetPay/SDKCinetPay-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SDKCinetPay/SDKCinetPay.modulemap";
+				PRODUCT_MODULE_NAME = SDKCinetPay;
+				PRODUCT_NAME = SDKCinetPay;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		5913AB85ED085F347579110E86368AED /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 61D5FC54D02489CA8FB8B31AF09B2EF2 /* SDKCinetPay.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SDKCinetPay";
+				INFOPLIST_FILE = "Target Support Files/SDKCinetPay/ResourceBundle-SDKCinetPay-SDKCinetPay-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				PRODUCT_NAME = SDKCinetPay;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		924D56B1D59CD3049300EAEEA256114E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4.2;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		C62D60E29187635A625E4C2F6379F564 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 61D5FC54D02489CA8FB8B31AF09B2EF2 /* SDKCinetPay.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SDKCinetPay";
+				INFOPLIST_FILE = "Target Support Files/SDKCinetPay/ResourceBundle-SDKCinetPay-SDKCinetPay-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				PRODUCT_NAME = SDKCinetPay;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4093433A309EFE160336AC736594AB22 /* Debug */,
+				924D56B1D59CD3049300EAEEA256114E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		66207EF3CD3F20191FCCE0FEED1F56A8 /* Build configuration list for PBXNativeTarget "SDKCinetPay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BC277129A1534133A0EC115E5A7BE8E /* Debug */,
+				48111A4D14624F34A1FF925ED4EF04B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CCDC9BB7A978B1F385FABEFB7D9AA393 /* Build configuration list for PBXNativeTarget "Pods-CinetPay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0858173549637A7498C2A697B47293A2 /* Debug */,
+				1FD7EC5A6FFF49F751EDD124F952384F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FABD8EA69D87F0B22E4F613AE1DD3F56 /* Build configuration list for PBXNativeTarget "SDKCinetPay-SDKCinetPay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C62D60E29187635A625E4C2F6379F564 /* Debug */,
+				5913AB85ED085F347579110E86368AED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}
